@@ -1,8 +1,8 @@
-# Sales Insight Studio
+# E-commerece Sales Insight
 
-Sales Insight Studio is a Python application for analyzing e-commerce sales, profitability, customer purchasing patterns, and monthly revenue trends. It provides an interactive Streamlit dashboard, a reusable analysis module, a command-line reporting tool, and a Jupyter notebook.
+E-commerece Sales Insight is a Python application for analyzing e-commerce sales, profitability, customer purchasing patterns, and monthly revenue trends. It provides an interactive Streamlit dashboard, a reusable analysis module, a command-line reporting tool, and a Jupyter notebook.
 
-Use the bundled Superstore sample to learn, or upload your own CSV. For a beginner-friendly guide in Roman Urdu, start with **[docs/START_HERE_ROMAN_URDU.md](docs/START_HERE_ROMAN_URDU.md)**.
+Use the bundled Superstore sample to learn, or upload your own CSV. 
 
 ## What you can do
 
