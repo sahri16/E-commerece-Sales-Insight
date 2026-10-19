@@ -1,0 +1,8 @@
+{
+  "smoothing_mae": 15731.562860835036,
+  "baseline_mae": 20371.13715,
+  "selected_model": "Exponential smoothing",
+  "training_months": 47,
+  "holdout_months": 6,
+  "last_month_excluded": true
+}

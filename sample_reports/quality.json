@@ -1,0 +1,9 @@
+{
+  "input_rows": 9994,
+  "exact_duplicates_removed": 0,
+  "invalid_rows_excluded": 0,
+  "invalid_discounts_ignored": 0,
+  "negative_ship_lags_ignored": 0,
+  "valid_rows": 9994,
+  "missing_ship_dates": 0
+}

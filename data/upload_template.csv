@@ -1,0 +1,4 @@
+Order ID,Order Date,Customer ID,Sales,Profit,Category,Sub-Category,Region,Segment,Product Name,Quantity,Discount,Ship Date,Ship Mode
+DEMO-001,2026-09-01,C001,12.00,8.00,Digital Products,Invitation,Pakistan,Consumer,Birthday Invitation,1,0.00,,
+DEMO-002,2026-09-15,C002,8.00,5.00,Digital Products,Party Games,International,Consumer,Baby Shower Game,1,0.20,,
+DEMO-003,2026-10-01,C001,15.00,10.00,Digital Products,Invitation,Pakistan,Consumer,Christmas Invitation,1,0.00,,

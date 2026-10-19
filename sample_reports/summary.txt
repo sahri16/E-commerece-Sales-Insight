@@ -1,0 +1,8 @@
+SALES INSIGHT STUDIO — SELECTED DATA
+Period: 2014-01-03 to 2017-12-30
+Sales: 2,297,200.86; Profit: 286,397.02; Margin: 12.47%
+Unique orders: 5,009; Customers: 793; Loss-making lines: 1,871
+Loss-making sub-categories: Tables, Bookcases, Supplies
+Review prices, costs and discounts in loss-making groups before taking action.
+Discount associations do not prove causation. Historical spending is not predicted lifetime value.
+Ship Date measures dispatch, not customer delivery. Currency is inherited from the source CSV.
